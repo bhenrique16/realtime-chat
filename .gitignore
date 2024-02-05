@@ -1,0 +1,12 @@
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Módulos do Node.js
+node_modules/
+
+# Arquivos de log
+logs/
+
+# Arquivos de configuração
+.env
